@@ -1,6 +1,6 @@
 atom.prob = runif(1,0,1)
 adapt.counter = 0
-
+#edit
 react = function(incidence){
 print(incidence)
 print("has incided")
